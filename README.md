@@ -64,4 +64,7 @@ This repository contains **source design files only**. To ensure workspace flexi
 ### How to Review
 1. Clone this repository locally.
 2. Open the `.PrjPcb` file inside Altium Designer.
+
+### Keywords & Search Tags
+STM32L432 Reference Design, nRF24L01 Schematic, USB-C Dongle Hardware, 4-Layer Controlled Impedance PCB, Altium RF Layout, JLC04161H-3313, 2.4GHz Antenna Breakout.
 3. Reviewers are encouraged to verify trace geometry tolerances, decoupling capacitor loops, and RF ground pour integrity before submitting feedback via GitHub Issues.

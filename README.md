@@ -1,8 +1,18 @@
 # STM32L432KBU 2.4GHz RF Dongle USB Type-C
 
-An open-source, ultra-compact RF development dongle featuring an **STM32L432KBU** microcontroller paired with a **Nordic Semiconductor nRF24L01** 2.4GHz wireless transceiver and a usb-c port. 
+An open-source, ultra-compact RF development dongle featuring an **STM32L432KBU** microcontroller paired with a **Nordic Semiconductor nRF24L01** 2.4GHz wireless transceiver and a USB-C port. 
 
 > ⚠️ **Status: Work in Progress / Untested.** This design is currently undergoing community review and has not yet been physically fabricated or validated on a test bench. Use at your own discretion.
+
+---
+
+## Design Previews
+
+### 3D Render View
+![3D Rendering of the RF Dongle](images/Dongle_3d_view.png)
+
+### PCB Layout View
+![2D PCB Trace Layout and Routing](images/Dongle_pcb_view.png)
 
 ---
 
@@ -38,16 +48,6 @@ This board is designed strictly around the **JLCPCB 4-Layer Controlled Impedance
 | **Internal Layer 3** | Signal / Power | Copper (0.5 oz)| 0.0175 mm | — |
 | *Prepreg* | Dielectric | **7628\*1** | 0.2104 mm | 4.4 |
 | **Bottom Layer** | Signal / Copper | Copper (1 oz) | 0.035 mm | — |
-
----
-
-## Design Previews
-
-### 3D Render View
-![3D Rendering of the RF Dongle](images/Dongle_3d_view.png)
-
-### PCB Layout View
-![2D PCB Trace Layout and Routing](images/Dongle_pcb_view.png)
 
 ---
 

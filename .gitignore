@@ -1,0 +1,21 @@
+# Altium auto-generated folders
+__Previews/
+History/
+Project Logs*/
+Project Outputs*/
+
+# Specific files to exclude
+libtf.*
+PcbLibtf.*
+Job1.*
+
+# Altium cache/temp files
+debug.log
+Status Report.txt
+*.PcbDoc.htm
+*.SchDocPreview
+*.PcbDocPreview
+*.ldb
+
+# Docs folder
+Docs/

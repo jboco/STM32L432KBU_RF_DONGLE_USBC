@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Fabrication
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -166,7 +166,215 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
+DocumentPath=Fabrication\BOM\Bill of Materials-STM32L432KBU-RF-DONGLE.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for STM32L432KBU-RF-DONGLE\BOM\Bill of Materials-STM32L432KBU-RF-DONGLE.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Project Outputs for STM32L432KBU-RF-DONGLE\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Fabrication\NC Drill\PCB1-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for STM32L432KBU-RF-DONGLE\NC Drill\PCB1-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Fabrication\NC Drill\PCB1-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for STM32L432KBU-RF-DONGLE\NC Drill\PCB1-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Fabrication\NC Drill\PCB1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for STM32L432KBU-RF-DONGLE\NC Drill\PCB1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Fabrication\Gerber\PCB1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for STM32L432KBU-RF-DONGLE\Gerber\PCB1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Fabrication\Gerber\PCB1.G1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for STM32L432KBU-RF-DONGLE\Gerber\PCB1.G1
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Fabrication\Gerber\PCB1.G2
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for STM32L432KBU-RF-DONGLE\Gerber\PCB1.G2
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Fabrication\Gerber\PCB1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for STM32L432KBU-RF-DONGLE\Gerber\PCB1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Fabrication\Gerber\PCB1.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for STM32L432KBU-RF-DONGLE\Gerber\PCB1.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Fabrication\Gerber\PCB1.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for STM32L432KBU-RF-DONGLE\Gerber\PCB1.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Fabrication\Gerber\PCB1.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for STM32L432KBU-RF-DONGLE\Gerber\PCB1.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Fabrication\Gerber\PCB1.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for STM32L432KBU-RF-DONGLE\Gerber\PCB1.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Fabrication\Gerber\PCB1.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for STM32L432KBU-RF-DONGLE\Gerber\PCB1.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Fabrication\Gerber\PCB1.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for STM32L432KBU-RF-DONGLE\Gerber\PCB1.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Fabrication\Gerber\PCB1.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for STM32L432KBU-RF-DONGLE\Gerber\PCB1.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Fabrication\Gerber\PCB1.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for STM32L432KBU-RF-DONGLE\Gerber\PCB1.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Fabrication\Gerber\PCB1.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for STM32L432KBU-RF-DONGLE\Gerber\PCB1.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Fabrication\Gerber\PCB1.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for STM32L432KBU-RF-DONGLE\Gerber\PCB1.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Fabrication\Gerber\PCB1.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for STM32L432KBU-RF-DONGLE\Gerber\PCB1.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Fabrication\Gerber\PCB1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for STM32L432KBU-RF-DONGLE\Gerber\PCB1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Fabrication\Gerber\PCB1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for STM32L432KBU-RF-DONGLE\Gerber\PCB1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Fabrication\Gerber\PCB1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for STM32L432KBU-RF-DONGLE\Gerber\PCB1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Fabrication\Gerber\PCB1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for STM32L432KBU-RF-DONGLE\Gerber\PCB1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Fabrication\NC Drill\PCB1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for STM32L432KBU-RF-DONGLE\NC Drill\PCB1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Fabrication\Gerber\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for STM32L432KBU-RF-DONGLE\Gerber\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Fabrication\Gerber\PCB1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for STM32L432KBU-RF-DONGLE\Gerber\PCB1.RUL
 DItemRevisionGUID=
 
 [Configuration1]
@@ -178,6 +386,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Fabrication
 
 [OutputGroup1]
 Name=Netlist Outputs
